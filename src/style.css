@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  overflow: hidden;
+  image-rendering: pixelated;
+}
+
+canvas {
+  width: 100%;
+}
+
+@font-face {
+  font-family: fontRetroGaming;
+  src: url('fonts/Retro Gaming.ttf');
+}
